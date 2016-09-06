@@ -30,7 +30,8 @@
         android:id="@+id/pirateImageView"
         android:layout_gravity="center_horizontal"
         android:src="@drawable/occpirate"
-        android:layout_weight="2" />
+        android:layout_weight="2"
+        android:contentDescription="@string/pirate_image_text" />
 
     <Button
         android:layout_width="wrap_content"
